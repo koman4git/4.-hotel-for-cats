@@ -1,0 +1,22 @@
+{
+  "name": "4.cats-hotel",
+  "version": "1.0.0",
+  "description": "верстка макета № 4: Гостиница для кошек",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koman4git/4.-hotel-for-cats.git"
+  },
+  "author": "koman4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koman4git/4.-hotel-for-cats/issues"
+  },
+  "homepage": "https://github.com/koman4git/4.-hotel-for-cats#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
