@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/koman4git/4.-hotel-for-cats#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "browser-sync": "^2.27.4",
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.3.0"
+  },
+  "dependencies": {
+    "del": "^6.0.0"
   }
 }
