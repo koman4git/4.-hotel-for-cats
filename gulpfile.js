@@ -8,7 +8,7 @@ let path={
       
   },
   src: {
-      html: source_folder+"/*.html", 
+      html: source_folder+"/**/*.html", 
       images: source_folder+ "/images/**/*.{jpg,png,svg,gif.ico,webp}",
     },
   watch: {
